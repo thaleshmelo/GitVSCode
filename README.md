@@ -1,5 +1,5 @@
 PORTUGUESE - BRAZIL 
-Esse repositório é de uso exclusivo para testes e estudos para meu desenvolvimento individual, aqui irei testar, inplementar, errar, corrigir e me divertir enquanto crio, aprendo, me estresso e aumento meu conhecimento sobre esse novo mundo. 
+Esse repositório é de uso exclusivo para testes e estudos para meu desenvolvimento individual, aqui irei testar, implementar, errar, corrigir e me divertir enquanto crio, aprendo, me estresso e aumento meu conhecimento sobre esse novo mundo. 
 Mais adiante criarei outros repositórios separados para projetos especificos, este no entanto será uma mistura completa e caótica do meu esforço e dedicação, integrando provavelmente diversas linguagens como Python, java, e outras!
 
 ENGLISH - US
